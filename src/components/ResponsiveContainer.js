@@ -81,7 +81,7 @@ const ResponsiveContainer = ({ classes, theme, mobileOpen, handleDrawerToggle })
                     }}
                     onRequestClose={() => handleDrawerToggle(false)}
                     ModalProps={{
-                        keepMounted: true, // Better open performance on mobile.
+                        keepMounted: true, 
                     }}
                 >
                     <div>
@@ -109,7 +109,7 @@ const ResponsiveContainer = ({ classes, theme, mobileOpen, handleDrawerToggle })
                 >
                     <div>
                         <AppBar
-                            color="default"
+                            color="primary"
                             className={classes.toolBarHeader}
                         >
                             <Toolbar className={classes.toolBarHeader}>

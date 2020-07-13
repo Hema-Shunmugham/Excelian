@@ -3,7 +3,7 @@
 In order to get this project up-and-running you will need to:
 
 1. Clone this repository; (https://github.com/Hema-Shunmugham/Excelian.git)
-2. Install node dependencies;n
+2. Install node dependencies
 3. Run a server.
 
 Here are the commands:

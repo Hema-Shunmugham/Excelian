@@ -39,7 +39,7 @@
     "webpack-dev-server": "^1.16.2",
     "material-ui": "^1.0.0-beta.22",
     "material-ui-icons": "^1.0.0-beta.17",
-    "moment": "^2.14.1",
+    "moment": "^2.29.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
